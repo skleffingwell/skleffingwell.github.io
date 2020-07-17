@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can download a PDF copy of my CV [here](http://skleffingwell.github.io/files/Leffingwell_CV.pdf)
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
